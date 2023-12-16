@@ -1,0 +1,27 @@
+Pages of the website:
+	index.html
+	blog.html
+	blog-details.html
+	
+Parts of the website:
+	Giriş
+		logo
+		azewpolnota
+		Əlaqə
+		-
+		Background image
+		-
+		Polşa azərbaycanlılar şurası
+		Əlaqə button, video izlə button
+	Paylaşımlar
+		Paylaşımlar, text
+		posts:
+			post:
+				photo
+				Title
+				Content
+				"Daha çox" button
+	Haqqımızda
+	Tez-tez verilən suallar
+	Əlaqə saxla
+	Footer
