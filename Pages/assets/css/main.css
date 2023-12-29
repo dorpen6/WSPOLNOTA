@@ -26,6 +26,11 @@ a:hover {
   text-decoration: none;
 }
 
+#title
+{
+  color: aqua;
+}
+
 h1,
 h2,
 h3,

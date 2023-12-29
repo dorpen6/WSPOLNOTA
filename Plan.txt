@@ -1,27 +1,7 @@
-Pages of the website:
-	index.html
-	blog.html
-	blog-details.html
-	
-Parts of the website:
-	Giriş
-		logo
-		azewpolnota
-		Əlaqə
-		-
-		Background image
-		-
-		Polşa azərbaycanlılar şurası
-		Əlaqə button, video izlə button
-	Paylaşımlar
-		Paylaşımlar, text
-		posts:
-			post:
-				photo
-				Title
-				Content
-				"Daha çox" button
-	Haqqımızda
-	Tez-tez verilən suallar
-	Əlaqə saxla
-	Footer
+Deadline: 15 January.
+Today: 12 December.
+Days till: 24 Days.
+Split into: 12 parts
+
+22 December: Work 1 hour on plan.
+23 December: Work 1 hour on posts, finish if you can and give report.
